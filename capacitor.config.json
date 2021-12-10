@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "BookProject",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
