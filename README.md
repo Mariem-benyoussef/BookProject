@@ -2,8 +2,8 @@
 Frontend with ionic, vue js (add, update, delete, to borrow a book)
 
 
-Installation
+1. Installation
 npm install -g @ionic/cli
 
-Start
+2. Start
 ionic serve
