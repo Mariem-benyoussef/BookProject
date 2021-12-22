@@ -1,0 +1,14 @@
+{
+  "emprunts": [
+    {
+      "titre": "le petit prince",
+      "nom": "Ali ben salah",
+      "id": 1
+    },
+    {
+      "titre": "Les misérables",
+      "nom": "Ali ben salah",
+      "id": 2
+    }
+  ]
+}

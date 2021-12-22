@@ -1,0 +1,14 @@
+{
+  "eleves": [
+    {
+      "id": "1",
+      "nom":"Ali ben salah",
+      "mot__depasse":""
+    },
+    {
+      "id": "2",
+      "nom":"Foulen ben felten",
+      "mot__depasse":""
+    }
+  ]
+}

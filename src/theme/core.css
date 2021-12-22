@@ -1,0 +1,7 @@
+ion-toolbar {
+  --background: var(--ion-color-primary);
+  --color: var(--ion-color-primary-contrast);
+}
+ion-title {
+  color: rgb(156, 52, 182);
+}

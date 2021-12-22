@@ -1,0 +1,22 @@
+{
+  "livres": [
+    {
+      "id": "1",
+      "titre": "le petit prince",
+      "isbn": "9789861845029",
+      "anneeEdition": "1943",
+      "resume": "Les aventures du Petit Prince commencent sur son astéroïde, nommé astéroïde B612.",
+      "nbrExemplaire": 10,
+      "image": "https://media.vogue.fr/photos/5c2f451213e7392da6fbcac7/2:3/w_2560%2Cc_limit/le_petit_prince_3196.jpeg"
+    },
+    {
+      "id": "2",
+      "titre": "Les misérables",
+      "isbn": "9780679866688",
+      "anneeEdition": "1862",
+      "resume": "il existera, par le fait des lois et des mœurs, une damnation sociale créant artificiellement, en pleine civilisation.",
+      "nbrExemplaire": 7,
+      "image": "https://www.ecoledesloisirs.fr/sites/default/files/styles/couverture_livre/public/couverture/9782211238465.jpg?itok=MIxcJwuc"
+    }
+  ]
+}
